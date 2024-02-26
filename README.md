@@ -1,5 +1,5 @@
 # 私の実装環境
-|OS|Windows|
+| OS | Windows |
 |IDE|PyCharm|
 ##Python・ライブラリのバージョン一覧
 |Python|3.9.0|
