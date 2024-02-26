@@ -1,10 +1,8 @@
 # 私の実装環境
 
-| OS | IDE |
-| --- | --- |
-| Windows | PyCharm |
+OS: Windows，　IDE: PyCharm
 
-##Python・ライブラリのバージョン一覧
+##Python/ライブラリのバージョン一覧
 
 | ライブラリ等 | バージョン |
 | --- | --- |
