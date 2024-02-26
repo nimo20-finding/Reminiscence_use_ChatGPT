@@ -7,6 +7,7 @@
 ##Python・ライブラリのバージョン一覧
 
 | ライブラリ等 | バージョン |
+| --- | --- |
 | Python | 3.9.0 |
 | SpeechRecognition | 3.8.1 |
 | streamlit | 1.30.0 |
