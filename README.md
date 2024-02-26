@@ -14,7 +14,7 @@
 | PyAudio | 0.2.14 |
 | google-cloud-texttospeech | 2.16.2 |
 
-
+---
 
 # 動かせるようになるまで
 ## PythonとPyCharmをインストールする
