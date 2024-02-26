@@ -1,7 +1,7 @@
 # 私の実装環境
 
-*OS: Windows
-*IDE: PyCharm（2023.3.2）
+* OS: Windows
+* IDE: PyCharm（2023.3.2）
 
 ## Python・ライブラリのバージョン一覧
 
