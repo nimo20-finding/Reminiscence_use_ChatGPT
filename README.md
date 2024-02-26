@@ -1,6 +1,6 @@
 # 私の実装環境
-| OS | Windows |
-|IDE|PyCharm|
+| OS || Windows |
+| IDE || PyCharm |
 ##Python・ライブラリのバージョン一覧
 |Python|3.9.0|
 |SpeechRecognition|3.8.1|
