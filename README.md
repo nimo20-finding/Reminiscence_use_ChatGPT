@@ -28,6 +28,7 @@
 
 * OpenAIのアカウント作成およびChatGPT APIの使い方は[ChatGPT API利用方法の簡単解説](https://qiita.com/mikito/items/b69f38c54b362c20e9e6)、Google Cloud Platformの利用登録は[Google Cloud Text-to-Speechの使い方　日本語テキストを読み上げさせてみよう](https://blog.apar.jp/web/9893/)が参考になります。
 
+
 | | OpenAI | Google Cloud Platform |
 | --- | --- | --- |
 | アカウント作成時に必要な情報 | メールアドレス、パスワード、氏名、生年月日、電話番号*1 | Googleアカウント、住所、名前、電話番号、クレジットカード番号 |
@@ -35,8 +36,11 @@
 | 課金制度 | 従量課金制、月単位で請求、1000トークンあたり$0.002 | 従量課金制、月単位で請求 |
 
 *1 GoogleアカウントやMicrosoftアカウントでもアカウントを作成できる。
+
 *2 OpenAIアカウントを作成してから3か月間のため、ChatGPTをブラウザで使用したことのある人は期限に注意。期限や$18の使用上限を超えると、クレジットカードと紐づけた有料枠へのアップグレードが必要となる。
+
 *3 このプログラムで使用するGoogle Cloud Text-to-Speechでは課金を有効にする必要があるが、月100万文字までは無料で使用可能
+
 
 * OpenAIのAPI Keyを控えてください。
 
